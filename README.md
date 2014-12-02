@@ -3,7 +3,7 @@ NeatWi
 
 NeatWI is solution to make building web interfaces easier.
 
-website: <a href="neatwi.com">neatwi.com</a>
+website: <a href="http://www.neatwi.com">neatwi.com</a>
 
 Author
 ======
