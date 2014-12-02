@@ -8,9 +8,9 @@ website: <a href="http://www.neatwi.com">neatwi.com</a>
 Author
 ======
 
-<a href="github.com/rafalkrawczyk">Rafał Krawczyk</a>
+<a href="http://github.com/rafalkrawczyk">Rafał Krawczyk</a>
 
-<a href="mainto:rafalkrawczyk88@gmail.com">rafalkrawczyk88@gmail.com
+<a href="mailto:rafalkrawczyk88@gmail.com">rafalkrawczyk88@gmail.com
 
 Example control
 ======
